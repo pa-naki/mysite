@@ -198,4 +198,3 @@
 //     .then(() => {
 //       console.log('並行実行所要時間', performance.now() - start);
 //     })
- 
